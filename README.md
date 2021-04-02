@@ -4,6 +4,9 @@ The GHCN_HTTPS function works to download climate observational data from the NO
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 For more information on the GHCN-Daily data, see the documentation here: https://www.ncei.noaa.gov/data/global-historical-climatology-network-daily/doc/GHCND_documentation.pdf
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 See below for an example code for using this function:
 
