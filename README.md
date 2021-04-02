@@ -22,4 +22,4 @@ The station_list variable will store a MATLAB table data structure including inf
 station_list = GHCN_HTTPS('your_save_path',{'PRCP','SNOW'},[38.8 39 -77.3 -76.8],50);
 
 
-The data files (9 meeting the conditions) will now be stored at the specified path 'your_local_save_path' along with the station_list in your workspace. Snowfall and precipitation data are in millimeters. it will also be located in this location with the name _stationInfo.csv
+The data files (9 meeting the conditions) will now be stored at the specified path 'your_local_save_path' along with the station_list in your workspace. Snowfall and precipitation data are in millimeters. The station_list data will also be saved to the specified path with the name _stationInfo.csv
